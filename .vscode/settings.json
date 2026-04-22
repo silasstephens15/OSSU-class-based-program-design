@@ -1,3 +1,7 @@
 {
-  "cSpell.words": ["OSSU"]
+  "cSpell.words": ["OSSU"],
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/home/silas/Downloads/tester.jar"
+  ]
 }
