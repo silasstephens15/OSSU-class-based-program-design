@@ -9,7 +9,7 @@
       "name": "Tester",
       "request": "launch",
       "mainClass": "tester.Main",
-      "args": "ExamplesPets"
+      "args": "ExamplesBooks"
     }
   ]
 }
